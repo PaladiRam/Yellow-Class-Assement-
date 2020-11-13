@@ -1,4 +1,4 @@
-# Yellow-Class-Assement-Part 2
+# Yellow-Class-Assesment-Part 2
 
 A simple memory based game which is designed using React JS and unsplash API
 
