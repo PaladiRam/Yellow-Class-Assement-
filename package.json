@@ -1,7 +1,12 @@
 {
   "name": "memory-game",
   "homepage": "http://PaladiRam.github.io/Yellow-Class-Assement-",
-  "name": "project_chat_application",
+  "version": "1.0.0",
+  "description": "package description",
+  "scripts": {
+    "deploy": "node --version",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
